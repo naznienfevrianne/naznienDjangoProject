@@ -1,1 +1,1 @@
-web: gunicorn naznienDjangoApp.wsgi --log-file -
+web: gunicorn nazniendjangoapp.wsgi --log-file -
