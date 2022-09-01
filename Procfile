@@ -1,1 +1,1 @@
-web: gunicorn nazniendjangoapp.wsgi --log-file -
+web: gunicorn nazniendjangoproject.wsgi --log-file -
